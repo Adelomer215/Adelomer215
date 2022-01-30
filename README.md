@@ -8,7 +8,7 @@ I planning to be a javascript developer someday.
 
 - 🌱 I’m currently learning **front end path**
 
-- 💬 Ask me about **react,vue**
+- 💬 Ask me about **JavaScript, react, Bootstrap, HTML, CSS, SASS, JSON, AJAX**
 
 - 📫 How to reach me **adelimer5533@gmail.com**
 
